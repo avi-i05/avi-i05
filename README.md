@@ -1,6 +1,6 @@
 # <span style="font-size: 2.5em; font-weight: bold;">Hi there, I'm Avi Sharma </span> 👋
 
-![Profile Image](p.gif)
+![Profile Image](/p.gif)
 
 > Motivated and detail-oriented Full Stack Developer with hands-on experience in building and deploying scalable web applications using the MERN stack. Passionate about developing efficient, user-friendly, and high-performance solutions that bridge front-end design with robust back-end systems. Seeking an opportunity to contribute technical expertise, problem-solving skills, and a growth-driven mindset to a dynamic software development team.
 
@@ -14,7 +14,7 @@ avisharmaaa373@gmail.com
 
 ## <span style="font-size: 1.8em; font-weight: bold;">📄 Resume</span>
 
-[View Resume](resume.pdf)
+[View Resume](/resume.pdf)
 
 ## <span style="font-size: 1.8em; font-weight: bold;">🌐 Connect with me</span>
 
@@ -24,827 +24,281 @@ avisharmaaa373@gmail.com
 
 ### Programming Languages
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(251, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                alt="JavaScript"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              JavaScript
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(11, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-                alt="TypeScript"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              TypeScript
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(244, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-                alt="Python"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Python
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(26, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-                alt="Java"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Java
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(243, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-                alt="C++"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              C++
-            </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      <br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+      <br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      <br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+      <br/>
+      <sub><b>Java</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+      <br/>
+      <sub><b>C++</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Frontend
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(135, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-                alt="React"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              React
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(246, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"
-                alt="Angular"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Angular
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(36, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-                alt="Next.js"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Next.js
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(45, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-                alt="Tailwind CSS"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Tailwind CSS
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(82, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-                alt="Material-UI"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Material-UI
-            </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+      <br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+      <br/>
+      <sub><b>Angular</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+      <br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+      <br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/>
+      <br/>
+      <sub><b>Material-UI</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Backend
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(101, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-                alt="Node.js"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Node.js
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(56, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-                alt="Express"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Express
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(355, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"
-                alt="Django"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Django
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(347, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-                alt="Flask"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Flask
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(139, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-                alt="Spring"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Spring
-            </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+      <br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+      <br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+      <br/>
+      <sub><b>Django</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+      <br/>
+      <sub><b>Flask</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+      <br/>
+      <sub><b>Spring</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Database
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(100, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-                alt="PostgreSQL"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              PostgreSQL
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(258, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-                alt="MySQL"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              MySQL
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(90, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-                alt="MongoDB"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              MongoDB
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(345, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"
-                alt="Firebase"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Firebase
-            </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+      <br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+      <br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+      <br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
+      <br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Mobile
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(320, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg"
-                alt="React Native"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              React Native
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(82, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg"
-                alt="Expo"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Expo
-            </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" alt="React Native" width="40" height="40"/>
+      <br/>
+      <sub><b>React Native</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" width="40" height="40"/>
+      <br/>
+      <sub><b>Expo</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(322, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-                alt="Git"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Git
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(277, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-                alt="GitHub"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              GitHub
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(232, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg"
-                alt="VS Code"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              VS Code
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(232, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellijidea/intellijidea-original.svg"
-                alt="IntelliJ IDEA"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              IntelliJ IDEA
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(64, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-                alt="Figma"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Figma
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(106, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
-                alt="Postman"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Postman
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(308, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg"
-                alt="Discord"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Discord
-            </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+      <br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+      <br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg" alt="VS Code" width="40" height="40"/>
+      <br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellijidea/intellijidea-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+      <br/>
+      <sub><b>IntelliJ IDEA</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+      <br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+      <br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+      <br/>
+      <sub><b>Discord</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Data Visualization
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(329, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg"
-                alt="Chart.js"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Chart.js
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(233, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/highcharts/highcharts-original.svg"
-                alt="Highcharts"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Highcharts
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(234, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"
-                alt="Tableau"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Tableau
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(246, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
-                alt="Power BI"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Power BI
-            </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" alt="Chart.js" width="40" height="40"/>
+      <br/>
+      <sub><b>Chart.js</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/highcharts/highcharts-original.svg" alt="Highcharts" width="40" height="40"/>
+      <br/>
+      <sub><b>Highcharts</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
+      <br/>
+      <sub><b>Tableau</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+      <br/>
+      <sub><b>Power BI</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Backend as a Service
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(52, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"
-                alt="Supabase"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Supabase
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(217, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
-                alt="Vercel"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Vercel
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(325, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"
-                alt="Netlify"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Netlify
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(324, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
-                alt="Heroku"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Heroku
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(218, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg"
-                alt="Render"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Render
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(18, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railways/railways-original.svg"
-                alt="Railways"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Railways
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(44, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"
-                alt="DigitalOcean App Platform"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              DigitalOcean App Platform
-            </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+      <br/>
+      <sub><b>Supabase</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+      <br/>
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
+      <br/>
+      <sub><b>Netlify</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/>
+      <br/>
+      <sub><b>Heroku</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" alt="Render" width="40" height="40"/>
+      <br/>
+      <sub><b>Render</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railways/railways-original.svg" alt="Railways" width="40" height="40"/>
+      <br/>
+      <sub><b>Railways</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean App Platform" width="40" height="40"/>
+      <br/>
+      <sub><b>DigitalOcean App Platform</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Others
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(258, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg"
-                alt="Webflow"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              Webflow
-            </div>
-<div style="
-              display: flex;
-              align-items: center;
-              gap: 6px;
-              background: hsl(281, 70%, 95%);
-              color: #333;
-              padding: 4px 12px;
-              border-radius: 16px;
-              font-size: 14px;
-              font-weight: 500;
-              box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            ">
-              <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
-                alt="WordPress"
-                style="width: 16px; height: 16px; object-fit: contain;"
-              />
-              WordPress
-            </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" alt="Webflow" width="40" height="40"/>
+      <br/>
+      <sub><b>Webflow</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+      <br/>
+      <sub><b>WordPress</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Stats
