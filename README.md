@@ -105,7 +105,7 @@ avisharmaaa373@gmail.com
       <sub><b>Express</b></sub>
     </td>
     <td align="center">
-      <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8b8bbbca-9185-49ae-a5fd-05dc58aa08f9" alt="Django" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
       <br/>
       <sub><b>Django</b></sub>
     </td>
@@ -183,12 +183,12 @@ avisharmaaa373@gmail.com
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg" alt="VS Code" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
       <br/>
       <sub><b>VS Code</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellijidea/intellijidea-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
       <br/>
       <sub><b>IntelliJ IDEA</b></sub>
     </td>
@@ -271,7 +271,7 @@ avisharmaaa373@gmail.com
       <sub><b>Render</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railways/railways-original.svg" alt="Railways" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/railway/railway-original.svg" alt="Railways" width="40" height="40"/>
       <br/>
       <sub><b>Railways</b></sub>
     </td>
