@@ -105,8 +105,7 @@ avisharmaaa373@gmail.com
       <sub><b>Express</b></sub>
     </td>
     <td align="center">
-      <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8b8bbbca-9185-49ae-a5fd-05dc58aa08f9" />
-" alt="Django" width="40" height="40"/>
+      <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8b8bbbca-9185-49ae-a5fd-05dc58aa08f9" alt="Django" width="40" height="40"/>
       <br/>
       <sub><b>Django</b></sub>
     </td>
