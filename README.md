@@ -337,11 +337,11 @@ avisharmaaa373@gmail.com
 
 ## 🌟 Crafted with ❤️
 
-*This README was generated using **[README Generator](https://readme-generator.dev)** - The ultimate tool for creating stunning GitHub profile READMEs!*
+*This README was generated using **[README Generator](https://readme-g.vercel.app/)** - The ultimate tool for creating stunning GitHub profile READMEs!*
 
 ### 💡 Want to create your own amazing README?
 
-[![Try README Generator](https://img.shields.io/badge/Try%20README%20Generator-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://readme-generator.dev)
+[![Try README Generator](https://img.shields.io/badge/Try%20README%20Generator-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://readme-g.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Follow%20Creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avi-i05)
 
 ---
