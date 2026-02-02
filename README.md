@@ -6,7 +6,7 @@
 
 ## <span style="font-size: 1.8em; font-weight: bold;">🌱 I'm currently learning</span>
 
-JAVA + SPRINGBOOT
+ANGULAR.JS
 
 ## <span style="font-size: 1.8em; font-weight: bold;">📫 How to reach me</span>
 
